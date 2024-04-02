@@ -151,6 +151,9 @@ disqusShortname = ""
     # archive grouping: "2006" by year, "2006-01" by month
     archiveDateGrouping = "2006-01"
 
+    # カスタムパラメータ アーカイブの年をどれぐらい出すか
+    amountArchivesInFooter = 7
+
     # credits line configuration
     copyrightBy = "by MengLab"
     copyrightUseCurrentYear = true  # set to true to always display the current year in the copyright
@@ -163,7 +166,6 @@ disqusShortname = ""
   baseColor = "#ae130c"
 
   siteWidth = "1170px"
-
 
 # customize your available languages for your multi-lingual site
 # or delete one of the [Languages.xx] blocks to use the theme with only one supported language
@@ -204,6 +206,7 @@ disqusShortname = ""
   tag      = "tags"
   category = "categories"
   series   = "series"
+  archive = "archives"
 
 [outputs]
   home = [ "HTML", "JSON", "RSS" ]
