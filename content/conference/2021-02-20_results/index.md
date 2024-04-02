@@ -1,6 +1,8 @@
 ---
 title: "2020年度成果発表会"
+slug: "results"
 date: 2021-02-20
+archives: ['2021']
 
 categories: ['conference']
 tags: ['立命館大学アート・リサーチセンター']

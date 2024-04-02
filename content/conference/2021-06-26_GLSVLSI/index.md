@@ -1,6 +1,8 @@
 ---
 title: "GLSVLSI 2021"
+slug: "glsvlsi"
 date: 2021-06-26
+archives: ['2021']
 
 categories: ['conference']
 tags: ['GLSVLSI']

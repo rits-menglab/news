@@ -1,6 +1,8 @@
 ---
 title: "2022年度 博士学位授与式"
+slug: "doctor"
 date: 2023-03-31
+archives: ['2023']
 
 categories: ['info']
 tags: ['卒業・学位授与']

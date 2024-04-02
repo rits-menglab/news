@@ -1,6 +1,8 @@
 ---
 title: "インドから教授と学生を招へい"
+slug: "india"
 date: 2020-01-29
+archives: ['2020']
 
 categories: ['info']
 tags: []

@@ -1,6 +1,8 @@
 ---
 title: "孟林准教授 RARAアソシエイトフェローに選出"
+slug: "RARA"
 date: 2022-12-13
+archives: ['2022']
 
 categories: ['achievement']
 tags: ['RARA']

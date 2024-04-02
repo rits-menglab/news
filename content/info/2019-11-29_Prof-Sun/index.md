@@ -1,6 +1,8 @@
 ---
 title: "北京師範大学のYunChuan Sun教授 研究室を訪問"
+slug: "prof-sun"
 date: 2019-11-29
+archives: ['2019']
 
 categories: ['info']
 tags: ['研究室訪問']

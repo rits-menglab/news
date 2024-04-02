@@ -1,6 +1,8 @@
 ---
 title: "研究用PC 組み立て"
+slug: "pc_assembly"
 date: 2020-09-30
+archives: ['2020']
 
 categories: ['info']
 tags: ['Diary']

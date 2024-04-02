@@ -1,6 +1,8 @@
 ---
 title: "ATAIT2023"
+slug: "atait"
 date: 2023-08-28
+archives: ['2023']
 
 categories: ['conference']
 tags: ['ATAIT']

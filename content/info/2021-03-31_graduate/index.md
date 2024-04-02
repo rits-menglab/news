@@ -1,6 +1,8 @@
 ---
 title: "2020年度 卒業・修了"
+slug: "graduate"
 date: 2021-03-31
+archives: ['2021']
 
 categories: ['info']
 tags: ['卒業・学位授与']

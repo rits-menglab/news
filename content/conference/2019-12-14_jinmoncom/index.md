@@ -1,6 +1,8 @@
 ---
 title: "人文とコンピュータシンポジウム2019"
+slug: "jinmoncom"
 date: 2019-12-14
+archives: ['2019']
 
 categories: ['conference']
 tags: ['人文とコンピュータシンポジウム','じんもんこん']

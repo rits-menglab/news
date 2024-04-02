@@ -1,6 +1,8 @@
 ---
 title: "立命館大学NEXTフェローシップ生 採用"
+slug: "rits-fellow"
 date: 2021-06-26
+archives: ['2021']
 
 categories: ['achievement']
 tags: ['立命館大学NEXTフェローシップ生']

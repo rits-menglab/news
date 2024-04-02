@@ -1,6 +1,8 @@
 ---
 title: "ICAMechS2023"
+slug: "icamechs"
 date: 2023-09-03
+archives: ['2023']
 
 categories: ['conference']
 tags: ['ICAMechS']

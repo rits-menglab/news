@@ -1,6 +1,8 @@
 ---
 title: "卒業生が戻ってきた！"
+slug: "ob"
 date: 2019-11-23
+archives: ['2019']
 
 categories: ['info']
 tags: ['Diary']

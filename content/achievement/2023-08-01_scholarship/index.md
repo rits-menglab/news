@@ -1,6 +1,8 @@
 ---
 title: "奨学金 実績"
+slug: "scholarship"
 date: 2023-08-01
+archives: ['2023']
 
 categories: ['achievement']
 tags: ['奨学金']

@@ -1,6 +1,8 @@
 ---
 title: "Int. Workshop on Pattern Recognition for Cultural Heritage (PatReCH 2019)"
+slug: "patrech"
 date: 2019-10-26
+archives: ['2019']
 
 categories: ['conference']
 tags: []

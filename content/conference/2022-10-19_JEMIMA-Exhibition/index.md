@@ -1,6 +1,8 @@
 ---
 title: "計測展2022"
+slug: "jemima-exhibition"
 date: 2022-10-19
+archives: ['2022']
 
 categories: ['conference']
 tags: ['計測展']

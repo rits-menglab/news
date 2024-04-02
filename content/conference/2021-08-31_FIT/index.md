@@ -1,6 +1,8 @@
 ---
 title: "第20回情報科学技術フォーラム"
+slug: "fit"
 date: 2021-08-31
+archives: ['2021']
 
 categories: ['conference']
 tags: ['FIT', '情報科学技術フォーラム']

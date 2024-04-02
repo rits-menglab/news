@@ -1,6 +1,8 @@
 ---
 title: "2023年度卒業式・学位授与式"
+slug: "ceremony"
 date: 2024-03-22
+archives: ['2024']
 
 categories: ['info']
 tags: ['卒業・学位授与']

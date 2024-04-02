@@ -1,6 +1,8 @@
 ---
 title: "国際学会 役員 担当"
+slug: "invited-committees"
 date: 2021-06-26
+archives: ['2021']
 
 categories: ['info']
 tags: ['']

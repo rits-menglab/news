@@ -1,6 +1,8 @@
 ---
 title: "本研究室発足"
+slug: "initial"
 date: 2019-04-01
+archives: ['2019']
 
 categories: ['info']
 tags: []

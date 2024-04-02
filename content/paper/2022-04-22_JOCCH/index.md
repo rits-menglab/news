@@ -1,6 +1,8 @@
 ---
 title: "ACM Journal on Computing and Cultural Heritage (JOCCH) に採録"
+slug: "jocch"
 date: 2022-04-22
+archives: ['2022']
 
 categories: ['paper']
 tags: []

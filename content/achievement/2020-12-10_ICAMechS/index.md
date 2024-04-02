@@ -1,6 +1,8 @@
 ---
 title: "ICAMechS 2020"
+slug: "icamechs"
 date: 2020-12-10
+archives: ['2020']
 
 categories: ['achievement']
 tags: ['ICAMechs']

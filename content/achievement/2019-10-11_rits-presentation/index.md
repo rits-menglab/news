@@ -1,6 +1,8 @@
 ---
 title: "2019年度 英語プレゼン大会"
+slug: "rits-presentation"
 date: 2019-10-11
+archives: ['2019']
 
 categories: ['achievement']
 tags: ['英語プレゼン大会']

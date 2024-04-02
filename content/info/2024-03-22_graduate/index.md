@@ -1,6 +1,8 @@
 ---
 title: "2023年度 卒業・修了"
+slug: "graduate"
 date: 2024-03-22
+archives: ['2024']
 
 categories: ['info']
 tags: ['卒業・学位授与']

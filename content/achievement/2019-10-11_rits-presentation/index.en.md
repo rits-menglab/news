@@ -1,6 +1,8 @@
 ---
 title: "2019 Presentation Competition"
+slug: "rits-presentation"
 date: 2019-10-11
+archives: ['2019']
 
 categories: ['achievement']
 tags: ['英語プレゼン大会']

@@ -1,6 +1,8 @@
 ---
 title: "制御研究会 2021.6"
+slug: "ieej-workshop"
 date: 2021-06-26
+archives: ['2021']
 
 categories: ['conference']
 tags: ['制御研究会']

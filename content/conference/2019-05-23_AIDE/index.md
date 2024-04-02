@@ -1,6 +1,8 @@
 ---
 title: "the International Conference on Artificial Intelligence and Data Engineering (AIDE-2019)"
+slug: "aide"
 date: 2019-05-23
+archives: ['2019']
 
 categories: ['conference']
 tags: []

@@ -1,6 +1,8 @@
 ---
 title: "立命館大学はりたけ椋本研究奨励賞獲得"
+slug: "rits-haritake-mukumoto"
 date: 2023-09-11
+archives: ['2023']
 
 categories: ['achievement']
 tags: ['立命館大学はりたけ椋本研究奨励賞']

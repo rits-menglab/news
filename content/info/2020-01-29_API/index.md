@@ -1,6 +1,8 @@
 ---
 title: "甲骨文字認識APIリリース"
+slug: "api"
 date: 2020-01-29
+archives: ['2020']
 
 categories: ['info']
 tags: []

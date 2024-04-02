@@ -1,6 +1,8 @@
 ---
 title: "IEEE SMC"
+slug: "ieee-smc"
 date: 2023-10-04
+archives: ['2023']
 
 categories: ['conference']
 tags: ['IEEE']

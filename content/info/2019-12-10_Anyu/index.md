@@ -1,6 +1,8 @@
 ---
 title: "安陽師範学院・ 甲骨文信息処理(教育部重点)実験室の先生方による訪問"
+slug: "anyu"
 date: 2019-12-10
+archives: ['2019']
 
 categories: ['info']
 tags: [' 研究室訪問']

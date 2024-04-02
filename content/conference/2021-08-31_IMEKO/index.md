@@ -1,6 +1,8 @@
 ---
 title: "International Measurement Confederation (IMEKO　2021)"
+slug: "imeko"
 date: 2021-08-31
+archives: ['2021']
 
 categories: ['conference']
 tags: ['IMEKO']

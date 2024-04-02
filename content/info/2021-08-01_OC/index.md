@@ -1,6 +1,8 @@
 ---
 title: "OPEN CAMPUS"
+slug: "oc"
 date: 2021-08-01
+archives: ['2021']
 
 categories: ['info']
 tags: ['研究室紹介']

@@ -1,6 +1,8 @@
 ---
 title: "中原工学院での招待講演"
+slug: "zut"
 date: 2019-11-09
+archives: ['2019']
 
 categories: ['conference']
 tags: ['中原工学院']

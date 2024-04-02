@@ -1,6 +1,8 @@
 ---
 title: "ARC Days 2021"
+slug: "arc-days"
 date: 2021-07-31
+archives: ['2021']
 
 categories: ['conference']
 tags: ['ARC Days']

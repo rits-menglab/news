@@ -1,6 +1,8 @@
 ---
 title: "ATAIT2021"
+slug: "atait"
 date: 2021-08-23
+archives: ['2021']
 
 categories: ['conference']
 tags: ['ATAIT']

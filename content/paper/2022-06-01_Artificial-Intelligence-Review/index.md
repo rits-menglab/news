@@ -1,6 +1,8 @@
 ---
 title: "Artificial Intelligence Review に採録"
+slug: "artificial-intelligence-review"
 date: 2022-06-01
+archives: ['2022']
 
 categories: ['paper']
 tags: []

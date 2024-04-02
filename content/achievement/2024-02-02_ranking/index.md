@@ -1,6 +1,8 @@
 ---
 title: "孟林准教授 「世界のトップ2％の科学者」ランクイン"
+slug: "ranking"
 date: 2024-02-02
+archives: ['2024']
 
 categories: ['achievement']
 tags: []

@@ -1,6 +1,8 @@
 ---
 title: "2020年度 英語プレゼン大会"
+slug: "rits-presentation"
 date: 2021-01-10
+archives: ['2021']
 
 categories: ['achievement']
 tags: ['英語プレゼン大会']

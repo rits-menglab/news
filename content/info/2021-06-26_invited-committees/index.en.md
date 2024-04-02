@@ -1,6 +1,8 @@
 ---
 title: "Lin Meng is invited program committees"
+slug: "invited-committees"
 date: 2021-06-26
+archives: ['2021']
 
 categories: ['info']
 tags: ['']

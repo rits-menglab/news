@@ -1,6 +1,8 @@
 ---
 title: "CCF全国文字与計算機研討論会での招待講演"
+slug: "ccf"
 date: 2019-10-26
+archives: ['2019']
 
 categories: ['conference']
 tags: []

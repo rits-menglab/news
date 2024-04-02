@@ -1,6 +1,8 @@
 ---
 title: "IEEJ制御研究会"
+slug: "ieej-workshop"
 date: 2023-07-01
+archives: ['2023']
 
 categories: ['conference']
 tags: ['制御研究会']

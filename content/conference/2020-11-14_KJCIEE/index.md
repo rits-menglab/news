@@ -1,6 +1,8 @@
 ---
 title: "令和2年 電気関係学会関西連合大会"
+slug: "kjciee"
 date: 2020-11-14
+archives: ['2020']
 
 categories: ['conference']
 tags: ['電気関係学会関西連合大会']

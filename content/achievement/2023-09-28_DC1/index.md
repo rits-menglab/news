@@ -1,6 +1,8 @@
 ---
 title: "日本学術振興会 特別研究員採用"
+slug: "dc1"
 date: 2023-09-28
+archives: ['2023']
 
 categories: ['achievement']
 tags: ['日本学術振興会']

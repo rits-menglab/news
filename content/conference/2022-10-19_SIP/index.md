@@ -1,6 +1,8 @@
 ---
 title: "SIP 第2期 研究成果発表"
+slug: "sip"
 date: 2022-10-19
+archives: ['2022']
 
 categories: ['conference']
 tags: ['SIP']
