@@ -5,7 +5,7 @@ date: 2021-06-26
 archives: ['2021']
 
 categories: ['info']
-tags: ['']
+tags: []
 author: "MengLab"
 ---
 Meng is Invited to the ICAmechS2021 2021 program committee (Program Chair).

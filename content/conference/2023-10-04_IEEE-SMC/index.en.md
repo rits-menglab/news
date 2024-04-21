@@ -5,7 +5,7 @@ date: 2023-10-04
 archives: ['2023']
 
 categories: ['conference']
-tags: ['IEEE']
+tags: ['IEEE','SMC']
 author: "MengLab"
 ---
 Mr. Ishibashi (M1) gave a local presentation at the international conference IEEE SMC in Honolulu, Hawaii (acceptance rate = 57%).

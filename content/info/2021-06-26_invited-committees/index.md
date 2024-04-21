@@ -5,7 +5,7 @@ date: 2021-06-26
 archives: ['2021']
 
 categories: ['info']
-tags: ['']
+tags: []
 author: "MengLab"
 ---
 孟准教授は、ICAMechS2021 2021 program committeeのProgram Chairを勤めました。  

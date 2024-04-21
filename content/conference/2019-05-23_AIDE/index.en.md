@@ -5,7 +5,7 @@ date: 2019-05-23
 archives: ['2019']
 
 categories: ['conference']
-tags: []
+tags: ['AIDE']
 author: "MengLab"
 ---
 the International Conference on Artificial Intelligence and Data Engineering (AIDE-2019), May 2019. (In Nitte, Karnataka, India)
