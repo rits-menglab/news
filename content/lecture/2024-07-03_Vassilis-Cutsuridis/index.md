@@ -1,7 +1,7 @@
 ---
 title: "Vassilis Cutsuridis 准教授 講演会"
 slug: "vassilis-cutsuridis"
-date: 2024-07-09
+date: 2024-07-03
 archives: ['2024']
 
 categories: ['lecture']
@@ -12,6 +12,9 @@ author: "MengLab"
 ## Asso.Prof. Vassilis Cutsuridis / University of Lincoln, UK  
 
 [https://staff.lincoln.ac.uk/dc36f34d-567d-4205-8ce2-42f28166ac0a](https://staff.lincoln.ac.uk/dc36f34d-567d-4205-8ce2-42f28166ac0a)  
+
+立命館大学 [びわこ・くさつキャンパス](https://www.ritsumei.ac.jp/accessmap/bkc/) ローム記念館5階大会議室  
+参加無料・事前申込み不要・対面のみ  
 7/9(火) 16:00～17:00
 
 ## Title : Neuromorphic associative memories
