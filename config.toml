@@ -1,5 +1,5 @@
 title = "News"
-baseURL = "http://www.ihpc.se.ritsumei.ac.jp/news"
+baseURL = "http://www.ihpc.se.ritsumei.ac.jp/staging"
 
 # Option 1 (recommended): adding the theme as a Hugo module
 #theme = "github.com/Lednerb/bilberry-hugo-theme/v4"
