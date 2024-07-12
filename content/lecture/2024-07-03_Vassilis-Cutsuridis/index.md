@@ -1,7 +1,7 @@
 ---
-title: "Vassilis Cutsuridis 准教授 講演会"
+title: "立命館大学 VLSIセンター(協賛) Vassilis Cutsuridis 准教授 講演会"
 slug: "vassilis-cutsuridis"
-date: 2024-07-03
+date: 2024-07-09
 archives: ['2024']
 
 categories: ['lecture']
@@ -15,7 +15,8 @@ author: "MengLab"
 
 立命館大学 [びわこ・くさつキャンパス](https://www.ritsumei.ac.jp/accessmap/bkc/) ローム記念館5階大会議室  
 参加無料・事前申込み不要・対面のみ  
-7/9(火) 16:00～17:00
+7/9(火) 16:00～17:00  
+[VLSIセンターの発表](http://www.ihpc.se.ritsumei.ac.jp/events/240709-InvitedTalk.html)
 
 ## Title : Neuromorphic associative memories
 
@@ -33,5 +34,5 @@ Bio: Vassilis Cutsuridis is an Associate Professor in Computer Science, and a 
 
 ## 問合せ先
 
-孟林 (理工学部　電子情報工学科)  
-menglin@fc.ritsumei.ac.jp
+孟林 (理工学部 電子情報工学科)  
+[menglin@fc.ritsumei.ac.jp](<mailto:menglin@fc.ritsumei.ac.jp>)
