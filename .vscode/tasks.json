@@ -1,0 +1,10 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"command": "hugo server -w --disableFastRender -D -F",
+			"label": "hugo: Test Server"
+		}
+	]
+}
