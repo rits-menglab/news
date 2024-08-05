@@ -4,7 +4,8 @@
 		{
 			"type": "shell",
 			"command": "hugo server -w --disableFastRender -D -F",
-			"label": "hugo: Test Server"
+			"label": "hugo: Test Server",
+			"problemMatcher": []
 		}
 	]
 }
