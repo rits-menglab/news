@@ -1,5 +1,5 @@
 ---
-title: "立命館大学 VLSIセンター(協賛) Vassilis Cutsuridis 准教授 講演会"
+title: "T1. 立命館大学 VLSIセンター(協賛) Vassilis Cutsuridis 准教授 講演会"
 slug: "vassilis-cutsuridis"
 date: 2024-07-09
 archives: ['2024']

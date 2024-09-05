@@ -1,5 +1,5 @@
 ---
-title: "Atanasios Polydoros先生 Renata Ntelia先生 研究室訪問＆講演"
+title: "T2-3. Atanasios Polydoros先生 Renata Ntelia先生 研究室訪問＆講演"
 slug: "atanasios-polydoros_renata-ntelia"
 date: 2024-08-05
 archives: ['2024']
