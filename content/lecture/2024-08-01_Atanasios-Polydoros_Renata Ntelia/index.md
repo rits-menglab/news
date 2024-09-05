@@ -20,7 +20,7 @@ author: "MengLab"
 
 ### Short Bio
 
-Dr. Athanasios Polydoros is a Senior Lecturer (Assistant Professor) at the School of Computer Science, University of Lincoln, member of the Lincoln Centre of Autonomous Systems and supervisor within the Centre of Doctoral Training in Agri-Food Robotics . Before that he was a postdoctoral researcher at the Swiss Federal Institute of Technology (EPFL) and the University of Innsbruck. He holds a M.Sc. in Artificial Intelligence from the University of Edinburgh and A Dip. Eng. In Production Engineering from Democritus University of Thrace. His research interests include robot learning from demonstration, machine learning and robot control. He has multiple publications in high-impact conferences and journals in the field and has participated in EU and nationally funded projects. 
+Dr. Athanasios Polydoros is a Senior Lecturer (Assistant Professor) at the School of Computer Science, University of Lincoln, member of the Lincoln Centre of Autonomous Systems and supervisor within the Centre of Doctoral Training in Agri-Food Robotics . Before that he was a postdoctoral researcher at the Swiss Federal Institute of Technology (EPFL) and the University of Innsbruck. He holds a M.Sc. in Artificial Intelligence from the University of Edinburgh and A Dip. Eng. In Production Engineering from Democritus University of Thrace. His research interests include robot learning from demonstration, machine learning and robot control. He has multiple publications in high-impact conferences and journals in the field and has participated in EU and nationally funded projects.
 
 ### Presentation Title: Robot Learning from visual demonstrations  
 
