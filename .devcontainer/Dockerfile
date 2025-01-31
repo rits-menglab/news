@@ -1,9 +1,6 @@
 # syntax=docker/dockerfile:1
-FROM mcr.microsoft.com/devcontainers/base:bookworm
-
-ARG USER=vscode
+FROM mcr.microsoft.com/devcontainers/base:ubuntu
 ARG DEBIAN_FRONTEND=noninteractive
-RUN usermod -s /usr/bin/zsh ${USER}
 
 # VARIANT can be either 'hugo' for the standard version or 'hugo_extended' for the extended version.
 ARG VARIANT=hugo_extended
@@ -29,28 +26,3 @@ RUN case ${VERSION} in \
 
 # Hugo dev server port
 EXPOSE 1313
-
-
-USER ${USER}
-ARG HOME=/home/${USER}
-WORKDIR ${HOME}
-
-ARG PNPM_HOME=${HOME}/.local/share/pnpm
-ENV PATH="${PNPM_HOME}:$PATH"
-RUN <<EOT
-    wget -qO- https://get.pnpm.io/install.sh | ENV="${HOME}/.zshrc" SHELL=/bin/zsh sh -
-    pnpm env use -g lts
-EOT
-
-ARG OHMYZSH_HOME=${HOME}/.oh-my-zsh
-
-# ARG OHMYZSH_THEME=${OHMYZSH_HOME}/custom/themes
-# RUN <<EOT
-#     git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${OHMYZSH_THEME}/powerlevel10k
-#     sed -i 's|ZSH_THEME="devcontainers"|ZSH_THEME="powerlevel10k/powerlevel10k"|g' .zshrc
-#     echo 'POWERLEVEL9K_DISABLE_CONFIGURATION_WIZARD=true' >> .zshrc
-# EOT
-
-RUN <<EOT
-    hugo completion zsh > ${OHMYZSH_HOME}/plugins/git/_hugo
-EOT

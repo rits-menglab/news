@@ -6,8 +6,20 @@
   },
 
   // 👇 Features to add to the Dev Container. More info: https://containers.dev/implementors/features.
-  // "features": { "ghcr.io/devcontainers/features/docker-in-docker:2": {} },
-
+  "features": {
+        "ghcr.io/devcontainers/features/common-utils:2": {
+            "installZsh": "true",
+            "configureZshAsDefaultShell": "true",
+            "username": "vscode",
+            "userUid": "1000",
+            "userGid": "1000",
+            "upgradePackages": "true"
+        },
+        "ghcr.io/devcontainers/features/git:1": {
+            "version": "latest",
+            "ppa": "true"
+        }
+  },
   // 👇 Use 'forwardPorts' to make a list of ports inside the container available locally.
   // "forwardPorts": [],
 
@@ -44,8 +56,5 @@
       ]
     }
   },
-
-  "remoteUser": "vscode",
-
-  "postCreateCommand": "pnpm install-completion zsh"
+  "remoteUser": "vscode"
 }
