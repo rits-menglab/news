@@ -17,8 +17,6 @@ LI Qi助教, RENさん(D1), WANGさん(M2), 福坂さん(M2), 藤田さん(M1) �
 - Hikaru Fukusaka, and Lin Meng, "A Challenge on Gradient Compression of Distributed Training in Image Classification"
 - Yuuki Fujita, Hayata Kaneko, and Lin Meng, "Improving training phase for restoration of ancient documents using DeepFillv2"
 
-{{< figure src="/images/hkmu.webp" >}}
-
 発表を行うLI Qi助教
 
 {{< figure src="/images/liqi.webp" >}}
