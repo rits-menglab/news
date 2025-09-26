@@ -212,7 +212,7 @@ disqusShortname = ""
   tag      = "tags"
   category = "categories"
   series   = "series"
-  archive = "archives"
+  archive  = "archives"
 
 [outputs]
   home = [ "HTML", "JSON", "RSS" ]
