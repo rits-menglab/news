@@ -17,7 +17,6 @@ author: "MengLab"
 - Haruhiro Takahashi, Ryuto Ishibashi, Taiga Tanaka and Lin Meng, "Knowledge Disitillation in Mask2Former for Semantic Segmentation"
 - Zhongyu Wang, Zhenling Su and Lin Meng, "FS-YOLO: An efficient metallic crack detection framework"
 - Runqian Zhang, Yifei Ge and Lin Meng, "YOLO Training Made Simple: A Unified Pipeline with Mobile Annotation and Web User Interface"
-- Zhixuan Wang, Yingrui Geng, Ruizi Yao, Chengzhen Meng, Haixin Peng, Xinying Cao, Eunyoung Kim and Lin Meng, "KuShulan Paper Cutting Dataset and Benchmark Experiments Using Object Detection"
 - Yexin Zhang, Zhenling Su and Lin Meng, "A Review of UAV-Based Artificial Intelligence Applications in Agriculture"
 
 {{< figure src="/images/best_student_paper_award.webp" >}}
