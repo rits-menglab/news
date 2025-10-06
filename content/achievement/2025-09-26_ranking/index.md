@@ -5,7 +5,7 @@ date: 2025-09-26
 archives: ['2025']
 
 categories: ['achievement']
-tags: []
+tags: ['世界のトップ2％の科学者']
 author: "MengLab"
 ---
 [孟林教授](https://topresearcherslist.com/Home/Profile/1177624)は、米国スタンフォード大学とエルゼビア社による[「世界のトップ2％の科学者」](https://topresearcherslist.com/Home/AboutUs)にランクインしました。  
