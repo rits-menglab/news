@@ -8,7 +8,7 @@ categories: ['conference']
 tags: ['ICAMechS']
 author: "MengLab"
 ---
-市原さん(B4), 谷川さん(B4), 高橋さん(M1), WANG Zhongyuさん(M2), ZHANG Runqianさん(M2), GENG Yingrui(D2), ZHANG Yexinさん(D2)、中国 陝西省 西安市で開かれた国際学会  
+市原さん(B4), 谷川さん(B4), 高橋さん(M1), WANG Zhongyuさん(M2), ZHANG Runqianさん(M2), GENG Yingrui(D2), ZHANG Yexinさん(D2)は、中国 陝西省 西安市で開かれた国際学会  
 [2025 International Conference on Advanced Mechatronic Systems (ICAMechS 2025)](https://web.tuat.ac.jp/~deng/ICAMechS2025/icamechs2025.html)にて発表を行いました。  
 その内、谷川さんがBest Student Paper Awardを獲得しました。おめでとうございます!!
 
